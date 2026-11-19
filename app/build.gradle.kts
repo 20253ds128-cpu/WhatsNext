@@ -63,4 +63,7 @@ dependencies {
 
     // ViewModel
     implementation(libs.androidx.lifecycle.viewmodel.compose)
+
+    // Icons
+    implementation(libs.androidx.compose.material.icons.extended)
 }
